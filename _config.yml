@@ -75,7 +75,7 @@ share_buttons:
   facebook: false   # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
+  image_url: /assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
