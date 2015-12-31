@@ -72,13 +72,13 @@ paginate_path: page/:num
 #
 share_buttons:
   twitter: true
-  facebook: false   # needs ogp.fb.app_id
+  facebook: true   # needs ogp.fb.app_id
   hatena: false
 ogp:
   image_url: http://xdncl.github.io/jekyll-test/assets/img/ogp.png
   fb:
     admin: # facebook admin id
-    app_id: # facebook application id
+    app_id:966242223397117 # facebook application id
 
 #
 # Gems.
