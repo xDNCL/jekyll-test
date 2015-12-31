@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 試しに投稿してみる
+title: 改行はどうなる？
 tags: jekyll
 ---
 
