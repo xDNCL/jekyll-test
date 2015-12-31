@@ -73,7 +73,7 @@ paginate_path: page/:num
 share_buttons:
   twitter: true
   facebook: true   # needs ogp.fb.app_id
-  hatena: false
+  hatena: true
 ogp:
   image_url: http://xdncl.github.io/jekyll-test/assets/img/ogp.png
   fb:
