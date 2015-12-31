@@ -5,8 +5,8 @@
 # baseurl: ""
 url: http://xdncl.github.io
 baseurl: /jekyll-test
-title: Your name
-description: Some descriptions of yourself.
+title: PENの中の人
+description: Jekyllを試してみた
 avatar: /assets/img/ogp.png
 language: ja
 
