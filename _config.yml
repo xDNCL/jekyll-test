@@ -78,7 +78,7 @@ ogp:
   image_url: http://xdncl.github.io/jekyll-test/assets/img/ogp.png
   fb:
     admin: # facebook admin id
-    app_id:966242223397117 # facebook application id
+    app_id: 966242223397117 # facebook application id
 
 #
 # Gems.
