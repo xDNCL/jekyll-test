@@ -98,8 +98,6 @@ gems:
 include: ["_pages"]
 
 markdown: kramdown
-redcarpet:
-  extensions: ["autolink", "fenced_code_blocks", "strikethrough", "superscript", "with_toc_data", "tables", "footnotes", "no_intra_emphasis"]
 kramdown:
   input: GFM
 highlighter: rouge
